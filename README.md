@@ -19,7 +19,14 @@ Diseases and Conditions: Recognize mentions of specific diseases or medical cond
 Diagnoses: Capture diagnostic statements (e.g., “patient diagnosed with pneumonia”).
 Medications: Extract information about prescribed drugs (e.g., “prescribed lisinopril 10 mg daily”).
 
-Requirements
+### Requirements
 The following packages are required and installed:
 - SpaCy
 - MedSpacy
+
+
+### Output
+![disease]
+-![Disease Identification] <img src="https://github.com/saimenogm/Medical-AI/assets/32343117/d8db7159-636d-462a-9b5a-a5605e7e732e" width=520 height=450 /> &nbsp; 
+
+- ![Medication_Taken]<img src="https://github.com/saimenogm/Medical-AI/assets/32343117/485d40b5-b6b9-42d3-9acd-089c115b7868" width=520 height=450 /> &nbsp; 
