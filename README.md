@@ -2,8 +2,7 @@
 
 The Medical Data Analyzer is a powerful tool designed to assist healthcare professionals in extracting valuable information from clinical text. By leveraging natural language processing (NLP) techniques, specifically the medspaCy library (built on top of spaCy), this analyzer can process unstructured medical data and provide insights related to patient diseases, diagnoses, and prescribed medications.
 
-(https://github.com/saimenogm/Medical-AI/assets/32343117/201926c6-03c3-480e-8aef-097bc19cbada)
- <img src="https://github.com/saimenogm/Medical-AI/assets/32343117/201926c6-03c3-480e-8aef-097bc19cbada" width=420 height=450 /> &nbsp; 
+ <img src="https://github.com/saimenogm/Medical-AI/assets/32343117/201926c6-03c3-480e-8aef-097bc19cbada" width=520 height=450 /> &nbsp; 
 
 ## Features
 
