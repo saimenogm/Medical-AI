@@ -6,18 +6,18 @@ The Medical Data Analyzer is a powerful tool designed to assist healthcare profe
 
 ## Features
 
-<b>1. Clinical Text Preprocessing </b>
-Clean and preprocess raw clinical text to remove noise, abbreviations, and irrelevant information.
-Normalize text (e.g., convert uppercase to lowercase, handle misspellings).
-<b>2. Sentence Segmentation<b>
-Split clinical notes into individual sentences for further analysis.
-Ensure accurate context extraction by breaking down lengthy text.
-<b>3. Named Entity Recognition (NER)</b>
-Identify relevant entities (concepts) within clinical text.
-<b>4. Extract the following vital information </b>
-Diseases and Conditions: Recognize mentions of specific diseases or medical conditions (e.g., “hypertension,” “diabetes mellitus”).
-Diagnoses: Capture diagnostic statements (e.g., “patient diagnosed with pneumonia”).
-Medications: Extract information about prescribed drugs (e.g., “prescribed lisinopril 10 mg daily”).
+<h2>1. Clinical Text Preprocessing </h2>
+- Clean and preprocess raw clinical text to remove noise, abbreviations, and irrelevant information. <br/>
+- Normalize text (e.g., convert uppercase to lowercase, handle misspellings).
+<h2>2. Sentence Segmentation<h2>
+- Split clinical notes into individual sentences for further analysis. <br/>
+- Ensure accurate context extraction by breaking down lengthy text. <br/>
+<h2>3. Named Entity Recognition (NER)</h2> 
+- Identify relevant entities (concepts) within clinical text. <br/>
+<h2>4. Extract the following vital information </h2>
+- Diseases and Conditions: Recognize mentions of specific diseases or medical conditions (e.g., “hypertension,” “diabetes mellitus”). <br/>
+- Diagnoses: Capture diagnostic statements (e.g., “patient diagnosed with pneumonia”). <br/>
+- Medications: Extract information about prescribed drugs (e.g., “prescribed lisinopril 10 mg daily”). <br/>
 
 ### Requirements
 The following packages are required and installed:
