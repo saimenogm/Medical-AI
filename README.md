@@ -26,7 +26,8 @@ The following packages are required and installed:
 
 
 ### Output
-![disease]
--![Disease Identification] <img src="https://github.com/saimenogm/Medical-AI/assets/32343117/d8db7159-636d-462a-9b5a-a5605e7e732e" width=520 height=450 /> &nbsp; 
+-Disease Identification 
+<img src="https://github.com/saimenogm/Medical-AI/assets/32343117/d8db7159-636d-462a-9b5a-a5605e7e732e" width=520 height=150 /> &nbsp; 
 
-- ![Medication_Taken]<img src="https://github.com/saimenogm/Medical-AI/assets/32343117/485d40b5-b6b9-42d3-9acd-089c115b7868" width=520 height=450 /> &nbsp; 
+- Medication_Taken
+- <img src="https://github.com/saimenogm/Medical-AI/assets/32343117/485d40b5-b6b9-42d3-9acd-089c115b7868" width=520 height=200 /> &nbsp; 
