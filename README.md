@@ -9,7 +9,7 @@ The Medical Data Analyzer is a powerful tool designed to assist healthcare profe
 <h2>1. Clinical Text Preprocessing </h2>
 - Clean and preprocess raw clinical text to remove noise, abbreviations, and irrelevant information. <br/>
 - Normalize text (e.g., convert uppercase to lowercase, handle misspellings).
-<h2>2. Sentence Segmentation<h2>
+<h2>2. Sentence Segmentation</h2>h2>
 - Split clinical notes into individual sentences for further analysis. <br/>
 - Ensure accurate context extraction by breaking down lengthy text. <br/>
 <h2>3. Named Entity Recognition (NER)</h2> 
